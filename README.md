@@ -8,14 +8,11 @@ Matlab+VS2010
 https://github.com/chenxiannn/The-Little-Embedded-System/blob/master/ch4-matlab-for-image-processing.md
 
 
-如果对Code中有问题，请直接提交issue
+如果对Code中有问题，请直接提交issue或者联系chenxiannn#gmail.com
 
 
 
 相约：[Github](https://github.com/chenxiannn)
 
-[觅知圈](https://www.mizhiquan.com)
-
-觅知圈公众号
-
-![](https://www.mizhiquan.com/static/images/qrcode.jpg)
+嵌入式小书阅读地址：
+[觅知圈博客](https://blog.mizhiquan.com/)
